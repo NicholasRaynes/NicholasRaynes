@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicholas Raynes!</h1>
 <h3 align="center">An individual passionate for software development!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicholasraynes" alt="nicholasraynes" /></a> </p>
-
-- 🌱 I’m currently learning **@ Red River College Polytechnic**
+- 🌱 I’m currently learning **Red River College Polytechnic**
 
 - 👯 I’m looking to collaborate on **Java, C#, HTML and CSS projects.**
 
