@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicholas Raynes!</h1>
-<h3 align="center">An individual passionate for software development!</h3>
+<h3 align="center">An individual passionate for software development, and the digital art movement!</h3>
 
 - 🌱 I’m currently learning **Red River College Polytechnic**
 
