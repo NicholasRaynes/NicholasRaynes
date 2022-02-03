@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nicholas Raynes!</h1>
-<h3 align="center">An individual passionate for software development, and the digital art movement!</h3>
+<h3 align="center">An individual passionate for software development!</h3>
 
 - 🌱 I’m currently learning **Red River College Polytechnic**
 
 - 👯 I’m looking to collaborate on **Java, C#, HTML and CSS projects.**
 
+- 🎨 Passionate about creating digital art, specifically in 8-Bit landscapes.
+
 - 📫 How to reach me **nicholasraynesmb@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
