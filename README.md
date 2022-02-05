@@ -7,7 +7,7 @@
 
 - 🎨 Passionate about creating digital art, specifically in 8-Bit landscapes and urban environments.
 
-- ⭐ Goal for Summer 2022: Create and upload a personal website, to showcase my digital art.
+- ⭐ Goal for Summer 2022: Create and upload a personal website using JavaScript, to showcase my digital art.
 
 - 📫 How to reach me **nicholasraynesmb@gmail.com**
 
