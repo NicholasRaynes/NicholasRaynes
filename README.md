@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **@Red River College Polytechnic**
 
-- 👯 I’m looking to collaborate on **Java, C#, HTML and CSS projects.**
+- 🤝 I’m looking to collaborate on **Java, C#, HTML and CSS projects.**
 
 - 🎨 Passionate about creating digital art, specifically in 8-Bit landscapes and urban environments.
 
