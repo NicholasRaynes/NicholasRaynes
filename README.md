@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicholas Raynes!</h1>
 <h3 align="center">An individual who is passionate about learning to develop applications!</h3>
 
-- 🌱 I’m currently learning **@Red River College Polytechnic**
+- 🌱 I’m currently learning **@ Red River College Polytechnic**
 
 - 🤝 I’m looking to collaborate on **Java, C#, HTML and CSS projects.**
 
