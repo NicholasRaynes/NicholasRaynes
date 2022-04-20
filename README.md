@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking to collaborate on **Java and C# programming projects, as well as web development projects (HTML, CSS, Javascript).**
 
-- 🎨 Passionate about creating digital art, specifically in 8-Bit landscapes and urban environments.
+- 🎨 Passionate about creating digital art, specifically pixelated landscapes and environments.
 
 - ⭐ Goal for Summer 2022: Create and deploy a personal portfolio website, to showcase my digital art.
 
