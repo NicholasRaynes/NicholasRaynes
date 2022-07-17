@@ -7,7 +7,7 @@
 
 - 🎨 Passionate about creating digital art, specifically pixelated landscapes and environments.
 
-- ⭐ Goal for Summer 2022: Create and deploy a personal portfolio website, to showcase my digital art.
+- ⭐ Goal for Summer 2022: Create and deploy a personal portfolio website, to showcase my digital art. ✅
 
 - 📫 How to reach me: 
 - 📧: **nicholasraynesmb@gmail.com**
