@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking to collaborate on **Java and C# programming projects, as well as web development projects (HTML, CSS, JavaScript).**
 
-- 🎨 Passionate about creating digital art, specifically pixelated landscapes and environments.
+- 🎨 Have a background in creating digital art, specifically pixelated landscapes and environments.
 
 - ⭐ Goal for Summer 2022: Create and deploy a personal portfolio website, to showcase my digital art. ✅
 
