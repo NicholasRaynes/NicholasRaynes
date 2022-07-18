@@ -9,8 +9,8 @@
 
 - ⭐ Goal for Summer 2022: Create and deploy a personal portfolio website, to showcase my digital art. ✅
 
-- 📫 How to reach me: 
-📧: **nicholasraynesmb@gmail.com**
+- 📫 How to reach me:<br/> 
+📧: **nicholasraynesmb@gmail.com**<br/>
 Discord: **n1k0#6754**
 
 <h3 align="left">Languages and Tools:</h3>
