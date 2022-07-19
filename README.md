@@ -12,6 +12,7 @@
 - 📫 How to reach me:<br/> 
 
 Email: **nicholasraynesmb@gmail.com**<br/>
+
 Discord: **n1k0#6754**
 
 <h3 align="left">Languages and Tools:</h3>
