@@ -7,11 +7,11 @@
 
 - 🎨 Have a background in creating digital art, specifically pixelated landscapes and environments.
 
-- ⭐ Summer 2022 Goal: Create and deploy a personal portfolio website, to showcase my digital art. ✅
+- ⭐ **Summer 2022 Goal:** Create and deploy a personal portfolio website, to showcase my digital art. ✅
 
 - 🏗️ **CURRENT PROJECT:** Tournament tracker desktop application
 
-- 📫 How to reach me:<br/> 
+- 📫 **How to reach me:**<br/> 
 
 Email: **nicholasraynesmb@gmail.com**<br/>
 
