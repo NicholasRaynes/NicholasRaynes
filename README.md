@@ -7,7 +7,7 @@
 
 - 🎨 Have a background in creating digital art, specifically pixelated landscapes and environments.
 
-- ⭐ Goal for Summer 2022: Create and deploy a personal portfolio website, to showcase my digital art. ✅
+- ⭐ Summer 2022 Goal: Create and deploy a personal portfolio website, to showcase my digital art. ✅
 
 - 📫 How to reach me:<br/> 
 
