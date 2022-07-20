@@ -9,6 +9,8 @@
 
 - ⭐ Summer 2022 Goal: Create and deploy a personal portfolio website, to showcase my digital art. ✅
 
+- 🏗️ *CURRENT PROJECT:* Tournament tracker desktop application.
+
 - 📫 How to reach me:<br/> 
 
 Email: **nicholasraynesmb@gmail.com**<br/>
