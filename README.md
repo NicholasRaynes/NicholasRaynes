@@ -11,7 +11,7 @@
 
 - 🏗️ **Current Project:** Tournament tracker desktop application (ETA: September 2022)
 
-- 📨 **Reach me @:**<br/> 
+- 📨 **Reach me:**<br/> 
 
 Email: **nicholasraynesmb@gmail.com**<br/>
 
