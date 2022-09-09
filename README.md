@@ -9,7 +9,7 @@
 
 - ⭐ **Summer 2022 Goal:** Create and deploy a personal portfolio website, to showcase my digital art. ✅
 
-- 🏗️ **Current Project:** Tournament tracker desktop application (ETA: September 2022)
+- 🏗️ **Current Project:** Tournament tracker desktop application (ETA: November 2022)
 
 - 📧 **Reach me:**<br/> 
 
