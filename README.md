@@ -11,7 +11,7 @@
 
 - 🏗️ **Current Project:** Updating my pixel art portfolio website! (ETA: January 2023)
 
-- 📧 **Reach me:**<br/> 
+📧 **Reach me:**<br/> 
 
 Email: **nicholasraynesmb@gmail.com**<br/>
 
