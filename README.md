@@ -21,6 +21,6 @@
 <a href="https://code.visualstudio.com" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Docker" width="40" height="40"/> </a>
 <p align="left">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicholasraynes&" alt="nicholasraynes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicholasraynes&theme=dark" alt="nicholasraynes" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasraynes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
