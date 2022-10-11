@@ -11,7 +11,7 @@
 
 - ⭐ **Summer 2022 Goal:** Create and deploy a personal portfolio website, to showcase my digital art. ✅
 
-- 🏗️ **Current Project:** Updating my pixel art portfolio website! (ETA: January 2023)
+- 🏗️ **Upcoming Projects:** Updating my pixel art portfolio website! (ETA: January 2023), React Application (ETA: December 2022)
 
 - 📧 **Reach me: nicholasraynesmb@gmail.com**<br/> 
 
