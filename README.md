@@ -5,6 +5,8 @@
 
 - 🤝 I’m looking to collaborate on **Java and C# programming projects, as well as web development projects (HTML, CSS, JavaScript, PHP).**
 
+- 🎯 Daily Goal: One commit a day!
+
 - 🎨 Experience in creating digital pixel art, specifically landscapes and environments.
 
 - ⭐ **Summer 2022 Goal:** Create and deploy a personal portfolio website, to showcase my digital art. ✅
