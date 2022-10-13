@@ -21,6 +21,7 @@
 <a href="https://www.apachefriends.org" target="_blank" rel="noreferrer"> <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="40" height="40"/> </a>
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331370/docker.svg" alt="Docker" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Docker" width="40" height="40"/> </a>
+<a href="https://reactjs.org" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="40" height="40"/> </a>
 <p align="left">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicholasraynes&theme=dark" alt="nicholasraynes" /></p>
