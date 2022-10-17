@@ -7,7 +7,7 @@
 
 - 🎯 **Daily Goal:** One commit a day!
 
-- 🎨 Experience in creating digital pixel art, specifically landscapes and environments.
+- 🎨 Background in creating digital pixel art, specifically landscapes and environments.
 
 - 🏗️ **Upcoming Projects:** Updating my pixel art portfolio website! (ETA: January 2023), React Application (ETA: December 2022)
 
