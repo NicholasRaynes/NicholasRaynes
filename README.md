@@ -9,7 +9,7 @@
 
 - 🎨 Background in creating digital pixel art, specifically landscapes and environments.
 
-- 🏗️ **Upcoming Projects:** React Weather Application (ETA: December 2022)
+- 🏗️ **Upcoming Projects:** React Weather Application (ETA: November 2022)
 
 - 📧 **Reach me: nicholasraynesmb@gmail.com**<br/> 
 
