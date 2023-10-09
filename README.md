@@ -7,8 +7,8 @@
 
 - 🎨 Background in creating digital pixel art, specifically landscapes and environments.
 
-- 🏗️ **Recent Projects:** React Weather Application (Completed ✅)
-
+- 🏗️ **Current Projects:** React.js Dashboard Web Application
+  
 - 📧 **Reach me: nicholasraynesmb@gmail.com**<br/> 
 
 <h3 align="left">Languages and Tools:</h3>
