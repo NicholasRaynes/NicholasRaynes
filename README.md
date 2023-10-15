@@ -7,7 +7,7 @@
 
 - 🎨 Background in creating digital pixel art, specifically landscapes and environments.
 
-- 🏗️ **Current Project:** React.js Dashboard Web Application
+- 🏗️ **Current Project:** React.js Admin Dashboard 👀
   
 - 📧 **Reach me: nicholasraynesmb@gmail.com**<br/> 
 
