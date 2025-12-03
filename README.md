@@ -5,7 +5,7 @@ I’m passionate about expanding my skills through the latest technologies and e
 I’m also a big fan of collaboration and would love to team up on innovative ventures.
 If you’re interested in working together or just want to chat about cool ideas, feel free to reach out! 👀
 
-- 🏗️ **Current Project:** Full-stack Finance Dashboard 📈
+- 🏗️ **Current Project:** Northwind MCP Server 🤖 
   
 - 📧 **Reach me at: nicholasraynesmb@gmail.com**<br/> 
 
